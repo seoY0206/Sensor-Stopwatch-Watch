@@ -59,7 +59,7 @@
 ```
 
 ### 📊 PC & SR04 & FPGA 동작 결과
-![System Operation](./images/sr04.png)
+<img src="./images/sr04.png" width="450">
 
 
 **SR04: dist=339.9cm**
