@@ -59,7 +59,7 @@
 ```
 
 ### 📊 PC & SR04 & FPGA 동작 결과
-![System Operation](./images/system_operation.png)
+![System Operation](./images/sr04.png)
 *(이미지 파일이 있다면 images 폴더에 넣어주세요)*
 
 **SR04: dist=339.9cm**
